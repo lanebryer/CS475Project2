@@ -1,0 +1,1 @@
+To execute this program, simply type "python runProject2.py" on a Linux system with g++ installed
